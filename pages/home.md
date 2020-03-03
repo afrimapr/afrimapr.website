@@ -1,16 +1,14 @@
 ---
 layout: home
-title: Our research project
-description: Towards developing a theme for research project websites
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+title: <br><br><br>
+description: 
+background: /assets/img/afrimapr-header.png
 permalink: /
 ---
 
-{: .alert .alert-info}
-This is a demo website for [Petridish](https://github.com/peterdesmet/petridish): a Jekyll theme for research project websites.
+The **afrimapr** project will create software building blocks in R and learning resources to facilitate the use of spatial data in health and other applications in Africa. The project will promote these resources in Africa and beyond to initiate a community of users and developers to maintain and improve them. 
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+The R building blocks will make it easier to perform spatial data management tasks that should be straightforward but seldom are, including: summarising data by administrative regions of different levels; joining and displaying data referenced by administrative region names; access to environmental, socio-economic and health data, such as WorldPop, the Malaria Atlas Project and OpenStreetMap; and displaying data in static maps and interactive web applications. Components will be designed for ease of use to target new users of R.
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
-
+We will run workshops in Liverpool, Ethiopia, Malawi and South Africa trialling and promoting resources. By the end of the project there will be an R package accepted to the Comprehensive R Archive Network (CRAN) and the rOpenSci ecosystem. There will be an open source book describing how components can be used for entry level tasks with step-by-step reproducible instructions. There will be an evolving codebase on Github with a small but active community of users and developers. We will have collected examples of how users in Africa and elsewhere are starting to use the components. We will also have a business plan for how to sustain the project and resources.
 

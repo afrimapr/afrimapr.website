@@ -14,17 +14,6 @@
     background-color: theme-color("secondary");
   }
 
-  // Overlay
-  &.bg-image:before {
-    background-image: linear-gradient(rgba(theme-color("dark"), 0.1), rgba(theme-color("dark"), 0.9));
-    content: "";
-    left: 0;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
-
   a,
   a:hover,
   a:visited {

@@ -27,6 +27,12 @@ remark: See also page.layout == 'home' in head.html and jumbotron.html
       </div>
     {% endif %}
     </div>
+
+      <div class="row">
+	<div class="col-md-12">
+  	   {% include slider.html %}
+        </div>
+      </div>
     
   {% if site.posts_on_home > 0 %}
     <div class="row cards mt-4">
@@ -37,5 +43,7 @@ remark: See also page.layout == 'home' in head.html and jumbotron.html
     {% endfor %}
     </div>
   {% endif %}
+
+
 </div>
 

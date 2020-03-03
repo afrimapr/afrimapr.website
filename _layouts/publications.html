@@ -1,0 +1,29 @@
+---
+layout: default
+description: Template for publications page
+---
+
+{{ content }}
+
+
+{% for pub in site.data.publications %}
+  <div class="media publications">
+    <div class="media-body">
+      <h5 id="{{ pub.title | strip | url_encode }}">
+        <a href="{{ pub.link }}">{{ pub.title }}</a>
+        {% if pub.authors %}
+        <small class="text-muted">| 
+		{% for author in pub.authors %}
+	          {{ author }} &nbsp;
+		{% endfor %}
+	</small>
+        {% endif %}
+      </h5> 
+      <strong><i>{{ pub.journal }}</i></strong> &nbsp; <a href="{{ pub.link }}">{{ pub.link }}</a> 
+      {{ pub.description | markdownify }}
+
+      </ul>
+    </div>
+  </div>
+{% endfor %}
+

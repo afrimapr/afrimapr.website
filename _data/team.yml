@@ -1,24 +1,70 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+- name: Dr Andy South
+  role: Project lead @ Liverpool School of Tropical Medicine, UK
+  image: assets/img/community_andy_south.jpg # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  email: your.email@example.com
-  github: github_name
-  twitter: twitter_name
+    Andy works at the interface between biology, research and software, starting with LSTM while a freelance R consultant. He’s very keen on R, data visualisation and open-source software.
+  orcid: 0000-0003-4051-6135
+  email: Andy.South@lstmed.ac.uk 
+  github: AndySouth
+  twitter: southmapr
 
-- name: Turanga Leela
-  role: Captain
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+- name: Anelda van der Walt
+  role: Talarify, South Africa
+  image: assets/img/community_anelda_vanderwalt.jpg
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+    Since 2014 Anelda has been working with researchers and students across all disciplines to 
+    adopt technology in an effort to enhance the impact of their research. Her formal education is in Bioinformatics.
+  orcid: 0000-0003-4245-8119
+  email: anelda@talarify.co.za
+  github: anelda
+  twitter: aneldavdw
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
+- name: Haruko Nakao
+  role: Institute for Transport Studies, University of Leeds, UK
+  image: assets/img/community_haruko_nakao.jpg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    Haruko is a PhD student with a passion for evaluating the impact of policy intervention on transport systems, sustainability, and equity issues through the use of mathematical models.
+  email: ts15hn@leeds.ac.uk
+  github: HarukoNakao
+  twitter: HarukoNakao
+
+- name: Dr Julie-Anne Tangena
+  role: Liverpool School of Tropical Medicine, UK
+  image: assets/img/community_julie-anne_tangena.jpg
+  description: >
+    Julie-Anne Tangena is a public health entomologist. She was awarded an MRC Skills Development Fellowship to improve mosquito surveillance activities of vector control programs and divides her time between LSTM, Lancaster University, and Malawi.
+  email: Julie-Anne.Tangena@lstmed.ac.uk
+  orcid: 0000-0002-8188-4498
+  twitter: JTangena
+
+- name: Dr Margareth Gfrerer
+  role: Education Strategy Centre, Ethiopia
+  image: assets/img/community_margareth_gfrerer.jpg
+  description: >
+    Margareth holds a PhD in Economics, a MA in Economics Education and a MA in International Commerce. She has been involved in numerous international projects in the field of infrastructure management prior her current assignment in Ethiopia, where her focus is on Open Science and its impacts.
+  email: margareth.gfrerer@gmx.net  
+  orcid: 0000-0001-6429-5977
+  
+- name: Dr Paula Moraga
+  role: Department of Mathematical Sciences, University of Bath, UK
+  image: assets/img/community_paula_moraga.jpg
+  description: >
+    Paula’s research focuses on the development of innovative statistical methods and open-source software for geospatial data analysis and health surveillance, and has directly informed strategic policy in reducing disease burden in several countries
+  email: pm865@bath.ac.uk
+  github: Paula-Moraga
+  orcid: 0000-0001-5266-0201
+  twitter: Paula_Moraga_
+
+- name: Dr Robin Lovelace
+  role: Leeds Institute for Transport Studies, UK
+  image: assets/img/community_robin_lovelace.png
+  description: >
+    Robin is a geographer and environmental scientist specialising in spatial data analysis and computing, especially R programming. Robin has a strong interest in transport modelling.
+  email: r.lovelace@leeds.ac.uk
+  github: Robinlovelace
+  orcid: 0000-0001-5679-6536
+  twitter: robinlovelace
+
+

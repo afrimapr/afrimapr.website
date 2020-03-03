@@ -3,17 +3,8 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-      new_window: true
-    - text: Name of project partner 2
-      href: http://example.com
-      new_window: true
-
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source. See [`_data/footer.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/footer.yml) to customize this text.
+      This project is made with ❤ for open source. Thanks to [Peter Desmet](https://github.com/peterdesmet) for creating the [Petridish Jekyll theme](https://github.com/peterdesmet/petridish)
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

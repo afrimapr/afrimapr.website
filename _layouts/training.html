@@ -1,0 +1,39 @@
+---
+layout: default
+description: Template for training material page
+---
+
+{{ content }}
+
+{% for material in site.data.training %}
+  <div class="media training">
+    <img class="mr-3" src="{{ material.image | relative_url }}" height="250" width="200">
+    <div class="media-body">
+      <h5 id="{{ material.title | strip | url_encode }}">
+        <a href="{{ material.link }}">{{ material.title }}</a>
+        {% if material.authors %}
+        <small class="text-muted">| 
+         {% for author in material.authors %}
+                {{ author }} &nbsp; 
+         {% endfor %}
+        </small>
+        {% endif %}
+      </h5>
+
+      {{ material.description | markdownify }}
+
+      <ul class="list-inline">
+        {% if material.license %}
+        <li class="list-inline-item">
+          <a href="{{ material.license_link }}"><img class="license" src="{{ '/assets/theme/img/license_cc-by-nc-nd.png' | relative_url }}"></a>
+        </li>
+        {% endif %}
+
+      </ul>
+    </div>
+
+    <br><br>
+
+  </div>
+{% endfor %}
+
