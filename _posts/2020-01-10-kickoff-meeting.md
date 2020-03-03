@@ -1,6 +1,6 @@
 ---
 title: Kickoff meeting
-background: /assets/img/posts_20200106.jpg
+background: /assets/img/posts_20200110.jpg
 categories: [Meetings, Project]
 ---
 
