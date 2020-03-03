@@ -9,7 +9,7 @@ On 9 January 2020 the _afrimapr_ project kicked off with it's first team meeting
 Our [team][team] is 100% distributed and currently spans two continents and three countries including the 
 UK, Ethiopia, and South Africa.
 
-afrimapr is lead by Dr Andy South from the Liverpool School of Tropical Medicine and boasts a strong team of R developers, 
+_afrimapr_ is lead by Dr Andy South from the Liverpool School of Tropical Medicine and boasts a strong team of R developers, 
 community builders, and researchers. Collaborators include:
 
 - Dr Paula Moraga (Department of Mathematical Sciences, University of Bath, UK)
