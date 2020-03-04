@@ -2,7 +2,7 @@
 title: afrimapr                        # Title in top navigation bar (navbar) and <head>
 description: R building blocks for mapping data in Africa # Site description in <head>
 author: afrimapr                    # Used for copyright statement in footer
-url: "https://anelda.github.io"
+url: "https://afrimapr.github.io"
 baseurl: "/afrimapr.website"
 
 # SOCIAL PROFILES
