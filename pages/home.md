@@ -6,9 +6,9 @@ background: /assets/img/afrimapr-header.png
 permalink: /
 ---
 
-**afrimapr** is a one year project running in 2020 funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/people-and-projects/grants-awarded/afrimapr-facilitating-use-spatial-data-african-public). 
+_afrimapr_ is a one year project running in 2020 funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/people-and-projects/grants-awarded/afrimapr-facilitating-use-spatial-data-african-public). 
 
-**afrimapr** will create R building blocks and learning resources to make it easier to make data-driven maps in Africa. 
+_afrimapr_ will create R building blocks and learning resources to make it easier to make data-driven maps in Africa. 
 
 The created resources will be promoted in Africa and beyond to initiate a community of users and developers to maintain and improve them. 
 

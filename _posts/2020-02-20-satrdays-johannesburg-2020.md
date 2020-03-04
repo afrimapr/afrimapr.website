@@ -9,7 +9,7 @@ The R community and some of South Africa's most forward thinking companies have 
 back for its fourth local edition. This conference provides an opportunity to hear from and network with top 
 Researchers, Data Scientists and Developers from the R community in South Africa and beyond. 
 
-The exciting news is that afrimapr is on the programme!
+The exciting news is that _afrimapr_ is on the programme!
 
 [SatRdayJoburg 2020][satrday-jhb] will take on 7 March and will be hosted at the prestigious, 
 Discovery Head Office, in Sandton. Situated in the hub of Johannesburg the venue boasts a 5-star Green Star SA rating by the GBCSA.  

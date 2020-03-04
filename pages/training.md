@@ -8,7 +8,7 @@ permalink: /training/
 
 # Training Materials
 
-The list of training materials below may be of interest to the afrimapr community. 
+The list of training materials below may be of interest to the _afrimapr_ community. 
 
 <br>
 <br>
