@@ -7,7 +7,7 @@ baseurl: "/afrimapr.website"
 
 # SOCIAL PROFILES
 email: Andy.South@lstmed.ac.uk           # Social icon in footer
-twitter_username: southmapr           # Social icon in footer
+twitter_username: afrimapr           # Social icon in footer
 github_username: afrimapr            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
