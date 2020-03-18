@@ -7,7 +7,7 @@ permalink: /code/
 
 # Project code
 
-Our Github repository is available at [https://github.com/afrimapr](https://github.com/afrimapr).
+Our Github repository is available at [https://github.com/afrimapr](https://github.com/afrimapr){:target="_blank"}.
 
 
 
