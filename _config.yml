@@ -2,8 +2,8 @@
 title: afrimapr                        # Title in top navigation bar (navbar) and <head>
 description: R building blocks for mapping data in Africa # Site description in <head>
 author: afrimapr                    # Used for copyright statement in footer
-url: "https://afrimapr.github.io"
-baseurl: "/afrimapr.website"
+url: "https://afrimapr.org"
+baseurl: ""
 
 # SOCIAL PROFILES
 email: Andy.South@lstmed.ac.uk           # Social icon in footer
