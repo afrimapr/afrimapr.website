@@ -12,6 +12,8 @@ There are several ways in which to do this.
   - You can directly work on Github or add the post by working on a local copy of the repository in git
   - The blog posts folder is `_posts`
   - The post should be written in markdown
+  - The image should have a dark and not too busy background as the title, description, date, and authors will be displayed against the background image in the post
+  - The image should be uploaded to `assets/img` in this repository (either via git or Github)
   - The header should look like this:
  
  ```
@@ -23,8 +25,7 @@ author: [Andy South]                                             # Add an author
 categories: [Funding, Project]                                   # Add categories (free text)
 ---
 ```
-  - The image should have a dark and not too busy background as the title, description, date, and authors will be displayed against the background image in the post
-  - The image should be uploaded to `assets/img` in this repository (either via git or Github)
+
  
 - Via email
 
