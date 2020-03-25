@@ -1,0 +1,23 @@
+---
+layout: default
+description: Template for code page
+---
+
+{{ content }}
+
+{% for repo in site.data.code %}
+  <div class="media team-member">
+    <div class="media-body">
+      <h5 id="{{ repo.name | strip | url_encode }}">
+        <a href="{{ repo.link }}" target="_blank">{{ repo.name }}</a>
+        {% if repo.topic %}
+        <small class="text-muted">| {{ repo.topic }}</small>
+        {% endif %}
+      </h5>
+
+      {{ repo.description | markdownify }}
+
+    </div>
+  </div>
+{% endfor %}
+

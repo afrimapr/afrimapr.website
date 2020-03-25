@@ -1,7 +1,7 @@
 ---
 layout: training
-title: <br><br>
-description:
+title: afrimapr Training
+description: Training materials related to the afrimapr project
 background: assets/img/training_header.jpg
 permalink: /training/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: <br><br>
-description: 
+title: Blog Archive
+description: News items for the _afrimapr_ project
 background: /assets/img/bg.png
 permalink: /blog/
 ---
