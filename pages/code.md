@@ -1,6 +1,7 @@
 ---
-title: <br><br>
-description:
+layout: code
+title: Code
+description: The afrimapr project is developing R code in Github. This include a list of repositories for the project.
 background: /assets/img/code_header.png
 permalink: /code/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kickoff meeting
+posttitle: Kickoff meeting
 background: /assets/img/posts_20200110.jpg
 categories: [Meetings, Project]
 ---

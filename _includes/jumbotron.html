@@ -6,10 +6,13 @@
     <div class="container">
       <div class="row">
         <div class="col-md-10 col-lg-8 mx-auto">
-          <h1{% if page.layout == 'home' %} class="home"{% endif %}>{{ page.title }}</h1>
-          
-          <div class="lead">{{ page.description | markdownify }}</div>
-          
+          {% if page.posttitle %}
+
+	  <h1{% if page.layout == 'home' %} class="home"{% endif %}>{{ page.posttitle }}</h1>
+
+	  <div class="lead">{{ page.description | markdownify }}</div>
+	  {% endif %}
+	            
           {% if page.date %}
           <p class="meta">
             <time>{{ page.date | date: "%B %d, %Y" }}</time>

@@ -1,0 +1,12 @@
+# Project collaborators listed below will appear on the /team page
+
+- name: Dr Ahmadou Dicko
+  role: FAO, Senegal
+  image: assets/img/community_ahmadou_dicko.jpg # Can be external link
+  description: > # Can be Markdown
+    Ahmadou is a statistical consultant and R enthusiast. He believes in the use of data for social good.
+  orcid: 0000-0002-9654-7582
+  email: mail@ahmadoudicko.com 
+  github: dickoah
+  twitter: dickoah
+

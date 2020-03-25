@@ -1,7 +1,7 @@
 ---
 layout: publications
-title: <br><br>
-description:
+title: afrimapr Publications
+description: Publications coming out of the afrimapr project 
 background: assets/img/publications_header.jpg
 permalink: /publications/
 ---

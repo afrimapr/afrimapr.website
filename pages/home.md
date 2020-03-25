@@ -1,7 +1,7 @@
 ---
 layout: home
-title: <br><br><br>
-description: 
+title: afrimapr
+description: The afrimapr project is a funded through Wellcome Open Research fund and will develop R building blocks and learning resources to make it easier to make data-driven maps for Africa
 background: /assets/img/afrimapr-header.png
 permalink: /
 ---

@@ -1,0 +1,13 @@
+# Project Github repositories listed below will appear on the /code page
+
+- name: afrihealthsites
+  topic: Health facilities 
+  description: > # Can be Markdown
+    Access to geographic locations of african health sites from different sources.
+  link: https://github.com/afrimapr/afrihealthsites
+- name: afriadmin
+  topic: Administrative boundaries
+  description: >
+    African administrative boundaries from different sources
+  link: https://github.com/afrimapr/afriadmin
+

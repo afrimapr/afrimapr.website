@@ -5,6 +5,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: 300px;
   border-radius: 0; // Should always be square, independent from $enable-rounded
   color: $white;
   position: relative; // To contain overlay
