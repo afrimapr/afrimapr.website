@@ -1,8 +1,8 @@
-# _afrimapr_ 🧫
+# _afrimapr_
 
 
 
-afrimapr is a one year project running in 2020 funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/schemes/open-research-fund){_blank}.
+afrimapr is a one year project running in 2020 funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/schemes/open-research-fund).
 
 afrimapr will create R building blocks and learning resources to make it easier to make data-driven maps in Africa.
 
