@@ -1,8 +1,8 @@
 ---
-posttitle: Improving open health facility location data for Africa to support COVID-19 response
+posttitle: Open health facility location data for Africa to support COVID-19 efforts
 categories: [health facilities, africa, covid-19, coronavirus]
 background: assets/img/posts_20200326-b.png 
-author: [Andy South]
+author: [Andy South, Anelda van der Walt]
 ---
 
 We aim to improve access to the best-available health facility data for Africa to support the response to the coronavirus pandemic.  
