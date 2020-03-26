@@ -7,9 +7,9 @@ author: [Andy South, Anelda van der Walt]
 
 We aim to improve access to the best-available health facility data for Africa to support the response to the coronavirus pandemic.  
 
-This is a part of afrimapr, a one year project running in 2020, funded by the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/people-and-projects/grants-awarded/afrimapr-facilitating-use-spatial-data-african-public) to make health data more useable in Africa.
+This is a part of _afrimapr_, a one year project running in 2020, funded by the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/people-and-projects/grants-awarded/afrimapr-facilitating-use-spatial-data-african-public) to make health data more useable in Africa.
 
-The afrimapr approach is to create building-blocks in [R](https://www.r-project.org/) that will make it easier for others to create data-driven tools and apps. We are now applying that approach to help address the pandemic.
+The _afrimapr_ approach is to create building-blocks in [R](https://www.r-project.org/) that will make it easier for others to create data-driven tools and apps. We are now applying that approach to help address the pandemic.
 
 ## Inspiration from the USA
 
