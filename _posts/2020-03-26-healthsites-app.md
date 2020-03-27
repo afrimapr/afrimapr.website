@@ -24,6 +24,8 @@ In 2019 the Population Health Research Unit at KEMRI-Wellcome released
 
 The second dataset can be obtained from the global project - [healthsites.io](https://healthsites.io/) “an initiative to create an online map of every health facility in the world and make the details of each location easily accessible”. This excellent global health facility mapping project, associated with OpenStreetMap, has lots of resources for collaboration. Data are obtained both from bulk imports and crowdsourced contributions. [Anyone can contribute](https://healthsites.io/map) locations and attribute data for individual sites by first creating an OpenStreetMap account. The project has a clear vision and roadmap for how location coverage and accuracy will be [improved over time](https://github.com/healthsites/healthsites/wiki/Healthsites-roadmap). 
 
+There is variable overlap between these two sources. Some coordinates in the WHO-KEMRI data were sourced from healthsites.io and some of the WHO-KEMRI data have subsequently been used to update healthsites.io
+
 ## How are we responding
 
 Last week we created an R package [afrihealthsites](https://github.com/afrimapr/afrihealthsites) that makes it easier to access and compare health facility data for Africa from these two sources (and potentially others in future). This currently contains around 96k locations from the WHO-KEMRI dataset and 57k locations from healthsites.io. This week we created a relatively simple [healthsites viewer](https://andysouth.shinyapps.io/healthsites_viewer/) that allows anyone to choose a country and view the locations of different health facility categories from the two datasets. 
