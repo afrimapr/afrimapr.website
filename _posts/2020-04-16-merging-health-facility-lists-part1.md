@@ -104,4 +104,4 @@ In the meantime this work has inspired further development of methods in the [`a
 
 Please cite this work as follows:
 
-Anelda van der Walt, & Andy South. (2020, April 16). Merging Open Health Facility Data Sets: Part 1 (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3754647
+_Anelda van der Walt, & Andy South. (2020, April 16). Merging Open Health Facility Data Sets: Part 1 (Version v1.1). Zenodo. [http://doi.org/10.5281/zenodo.3754647](http://doi.org/10.5281/zenodo.3754647)._
