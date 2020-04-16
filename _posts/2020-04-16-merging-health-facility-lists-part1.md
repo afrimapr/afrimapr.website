@@ -1,11 +1,9 @@
 ---
 posttitle: Merging Open Health Facility Data Sets - Part 1
 categories: [health facilities, facility master list, africa]
-background: 
+background: assets/img/posts_20200416.png
 author: [Anelda van der Walt, Andy South]
 ---
-
-# About this post
 
 This blog post is a shorter version of the **[full report](https://htmlpreview.github.io/?https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.html)** that includes R code, readme files, data descriptions and much more. If you are really interested in what we've done, we strongly encourage you to head over to the full report and associated [Github repository](https://github.com/anelda/merge_open_hospital_data/). 
 
@@ -106,4 +104,4 @@ In the meantime this work has inspired further development of methods in the [`a
 
 Please cite this work as follows:
 
-Anelda van der Walt. (2020, April 16). anelda/merge_open_hospital_data: Merging Open Health Facility Data Sets: Part 1 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3754453
+Anelda van der Walt, & Andy South. (2020, April 16). Merging Open Health Facility Data Sets: Part 1 (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3754647
