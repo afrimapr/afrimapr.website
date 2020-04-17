@@ -1,0 +1,13 @@
+# Project open repositories listed below will appear on the /open-repos page
+
+- name: afrimapr @ Figshare
+  image: assets/img/repos_figshare.png 
+  description: > # Can be Markdown
+    A collection of openly available presentations, reports, diagrams, and other outputs.
+  link: https://figshare.com/projects/afrimapr_R_building_blocks_for_mapping_data_in_Africa/76839
+- name: afrimapr @ Zenodo
+  image: assets/img/repos_zenodo.png
+  description: >
+    This repository will mostly be used for code related outputs.
+  link: https://zenodo.org/communities/afrimapr/?page=1&size=20
+

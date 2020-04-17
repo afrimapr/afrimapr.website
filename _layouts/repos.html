@@ -1,0 +1,23 @@
+---
+layout: default
+description: Template for repos page
+---
+
+{{ content }}
+
+{% for repo in site.data.repos %}
+  <div class="media repos">
+    <a href="{{ repo.link }}"><img class="mr-3" src="{{ repo.image | relative_url }}" height="100" width="300"></a>
+    <div class="media-body">
+      <h5 id="{{ member.name | strip | url_encode }}">
+        <a href = "{{ repo.link }}">{{ repo.name }}</a>
+      </h5>
+
+      {{ repo.description | markdownify }}
+
+    </div>
+  </div>
+
+<br><br>
+{% endfor %}
+
