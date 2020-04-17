@@ -9,4 +9,13 @@
   email: mail@ahmadoudicko.com 
   github: dickoah
   twitter: dickoah
+- name: Mark Herringer
+  role: healthsites.io, Netherlands
+  image: assets/img/community_mark_herringer.jpg # Can be external link
+  description: > # Can be Markdown
+    Mark is the director of healthsites.io. He is interested in open data and how health care location mapping and citizen participation can support humanitarian business models.
+  orcid: 
+  email: 
+  github: markherringer
+  twitter: markherringer
 
