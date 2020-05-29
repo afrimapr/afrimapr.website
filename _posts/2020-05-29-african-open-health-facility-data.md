@@ -23,7 +23,7 @@ For countries where English is not the primary language, we translated the searc
 <a href="https://rpubs.com/anelda/health-facility-lists-africa-map"><img src="{{ site.baseurl }}/assets/img/posts_20200529_1.png" alt="Health facility lists in Africa map">
 
 
-# Evaluating open health facility lists 
+## Evaluating open health facility lists 
 
 Health facility lists vary considerably in terms of the type of facilities included, whether public and/or private sector facilities are listed, and the attributes described. Access to the data also varies greatly, for example, some can be accessed via API, others directly via a download button in a website, and others via request to the Ministry of Health. Lastly, data download formats include PDF, Excel (both .xlsx and .xls), CSV, and Google Sheets. Some datasets are neither downloadable via the web nor the API. 
 
@@ -37,23 +37,23 @@ Seven African countries’ had open health facility lists that fulfilled the req
 
 The selected datasets were compared by evaluating the number of facilities and attributes described for each facility as well as the type of facilities that were included. The R scripts are available at on [Github](https://github.com/anelda/african_open_mfls/).
 
-## Number of facilities listed
+### Number of facilities listed
 
 Below we compare the number of facilities from each master facility list to the number of facilities that are available from two open continent-wide health facility registries. The continental datasets are [healthsites.io](https://healthsites.io/) and a resource developed by the [KEMRI-Wellcome Trust Research Programme](https://pubmed.ncbi.nlm.nih.gov/31346183/) now hosted by the World Health Organisation (WHO).
 
 ![Number of facilities per dataset]({{ site.baseurl }}/assets/img/posts_20200529_2.png)
 
-## Facility types
+### Facility types
 
 To allow for comparison of different facility types that form part of each dataset, the “type” column had to be identified through visual inspection of each dataset as the column names varied considerably between them. Notably the Namibian MFL did not include a column describing the facility type despite the fact that the online MFL database do indeed display facility type. In this [Jupyter Notebook](https://github.com/anelda/african-open-mfls/blob/master/python_notebooks/namibia_mfl_convert.ipynb), we show how the original JSON format was converted to tabular format and a type column was deduced from the data after careful inspection of the MFL.
 
 The [report](https://rpubs.com/anelda/african-mfls) provides great detail about the facility types that are listed in each dataset. Suffice to say here that the lack of a standardised nomenclature makes it quite difficult to compare across datasets and also to combine datasets for a single country.
 
-# Conclusion
+## Conclusion
 
 A large number of online health facility lists are available for many African countries. The data is currently often not easy to access programatically to include in analysis, modeling, and visualisations. _afrimapr_ is exploring ways to enhance the accessibility of these resources and will continue to share our progress here.  We invite readers to reach out with information about other similar online resources for health facilities and suggestions for functionality that should be included in the open-source R building blocks we are developing.
 
-## Citation
+### Citation
 
 Please cite this work as follows:
 
