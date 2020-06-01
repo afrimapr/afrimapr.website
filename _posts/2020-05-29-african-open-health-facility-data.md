@@ -57,4 +57,4 @@ A large number of online health facility lists are available for many African co
 
 Please cite this work as follows:
 
-_Anelda van der Walt, & Andy South. (2020, May 29). Exploring open African health facility data (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.3754647](http://doi.org/10.5281/zenodo.3754647)._
+_Anelda van der Walt, & Andy South. (2020, June 1). Exploring open African health facility data (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3871224._
