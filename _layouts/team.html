@@ -42,6 +42,12 @@ description: Template for team page
           <a href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
         </li>
         {% endif %}
+
+        {% if member.profile %}
+        <li class="list-inline-item">
+          <a href="{{ member.profile }}"><i class="fa fa-address-card"></i></a>
+        </li>
+        {% endif %}
       </ul>
     </div>
   </div>
@@ -84,6 +90,12 @@ description: Template for team page
         {% if member.github %}
         <li class="list-inline-item">
           <a href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
+        </li>
+        {% endif %}
+
+        {% if member.profile %}
+        <li class="list-inline-item">
+          <a href="{{ member.profile }}"><i class="fa fa-address-card"></i></a>
         </li>
         {% endif %}
       </ul>
