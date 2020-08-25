@@ -1,7 +1,7 @@
 ---
 posttitle: How  an R-map visualization has helped to improve the state of the SA health facilities data in the covid19za repository
 categories: [health facilities, south africa, data visualisation, open data quality]
-background: assets/img/posts_202000825.png
+background: assets/img/posts_20200825.png
 author: [Andy South, Anelda van der Walt, Herklaas Combrink, Nompumelelo Mtsweni, Vukosi Marivate]
 ---
 
