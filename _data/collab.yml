@@ -19,4 +19,15 @@
   github: healthsites/healthsites
   twitter: markherringer
   profile: https://www.researchgate.net/profile/Mark_Herringer3
+- name: Dr Laurie Baker
+  role: Data Science Campus, Office for National Statistics, UK
+  image: assets/img/community_laurie_baker.jpg # Can be external link
+  description: > # Can be Markdown
+    Laurie is interested in spatial modelling, data visualisation, image processing and text analysis.
+  orcid: 
+  email: l-baker@dfid.gov.uk
+  github: LaurieLBaker
+  twitter: llbaker1707
+  profile: https://datasciencecampus.ons.gov.uk/author/laurie-baker/
+
 
