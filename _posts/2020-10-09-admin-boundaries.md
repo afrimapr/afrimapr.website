@@ -42,7 +42,7 @@ To compare different sources :
 
 ```r
 
-compareadmin("togo", level=2, datasource=c('geoboundaries','gadm'))`
+compareadmin("togo", level=2, datasource=c('geoboundaries','gadm'))
 
 ```
 The [afrimapr boundaries comparison app](https://andysouth.shinyapps.io/afriadmin-compare/) runs the code above, allowing you to select a country and look at boundary differences from the two sources.
