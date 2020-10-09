@@ -30,7 +30,7 @@ The motivation for the [afriadmin package](https://github.com/afrimapr/afriadmin
 
 To get a defined admin level and country :
 
-```
+```r
 library(afriadmin)
 sftgo <- afriadmin("togo", level=2) 
 
