@@ -31,6 +31,7 @@ The motivation for the [afriadmin package](https://github.com/afrimapr/afriadmin
 To get a defined admin level and country :
 
 ```r
+
 library(afriadmin)
 sftgo <- afriadmin("togo", level=2) 
 
@@ -39,8 +40,11 @@ The default datasource is currently geoboundaries, but can be changed when speci
 
 To compare different sources :
 
-`compareadmin("togo", level=2, datasource=c('geoboundaries','gadm'))`
+```r
 
+compareadmin("togo", level=2, datasource=c('geoboundaries','gadm'))`
+
+```
 The [afrimapr boundaries comparison app](https://andysouth.shinyapps.io/afriadmin-compare/) runs the code above, allowing you to select a country and look at boundary differences from the two sources.
 
 ![Comparing internal boundaries for Liberia using the afriadmin comparison app]({{ site.baseurl }}/assets/img/posts_20201009_1.png)
