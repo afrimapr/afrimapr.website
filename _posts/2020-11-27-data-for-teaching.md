@@ -15,12 +15,12 @@ These example datasets are deliberately rather small so that they are easy for l
 
 The package currently contains these objects :
 
-1. **africountries**: polygons, country boundaries
-2. **africontinent**: polygons, continent outline
-3. **afrihighway**: lines, trans african highway network
-4. **africapitals**: points, capital cities
-5. **afripop2020**: raster, population density 2020 aggregated to 20km ([WorldPop](https://www.worldpop.org/))
-6. **afripop2000**: raster, as above for year 2000
+1. **africountries**: *polygons, country boundaries*
+2. **africontinent**: *polygons, continent outline*
+3. **afrihighway**:   *lines, trans african highway network*
+4. **africapitals**:  *points, capital cities*
+5. **afripop2020**:   *raster, population density 2020 aggregated to 20km ([WorldPop](https://www.worldpop.org/))*
+6. **afripop2000**:   *raster, as above for year 2000*
 
 Sources are indicated in the package documentation and [reproducible code](https://github.com/afrimapr/afrilearndata/blob/master/data-raw/afrilearndata-data-creation.R) to create the data from public sources is included as a part of the package.
 
