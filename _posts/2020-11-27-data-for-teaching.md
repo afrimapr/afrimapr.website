@@ -15,18 +15,18 @@ These example datasets are deliberately rather small so that they are easy for l
 
 The package currently contains these objects :
 
-1. **africountries**: polygons, country boundaries
-2. **africontinent**: polygons, continent outline
-3. **afrihighway**: lines, trans african highway network
-4. **africapitals**: points, capital cities
-5. **afripop2020**: raster, population density 2020 aggregated to 20km ([WorldPop](https://www.worldpop.org/))
-6. **afripop2000**: raster, as above for year 2000
+1. **africountries**: *polygons, country boundaries*
+2. **africontinent**: *polygons, continent outline*
+3. **afrihighway**:   *lines, trans african highway network*
+4. **africapitals**:  *points, capital cities*
+5. **afripop2020**:   *raster, population density 2020 aggregated to 20km ([WorldPop](https://www.worldpop.org/))*
+6. **afripop2000**:   *raster, as above for year 2000*
 
 Sources are indicated in the package documentation and [reproducible code](https://github.com/afrimapr/afrilearndata/blob/master/data-raw/afrilearndata-data-creation.R) to create the data from public sources is included as a part of the package.
 
 Here are 4 of the data layers displayed together using the package [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html). The code to create this plot is given in the [afrilearndata readme](https://github.com/afrimapr/afrilearndata/blob/master/README.md).
 
-![visualisation of afrilearndata on map]({{ site.baseurl }}/assets/img/posts_20201127.png)
+![visualisation of afrilearndata on map]({{ site.baseurl }}/assets/img/posts_20201127-1.png)
 
 We took inspiration from the [spData](https://github.com/Nowosad/spData) package. As well as having the data as R objects that can be used straightaway, we also store them as a range of geographic data file types (e.g. .shp, .gpkg, .kml, .tiff) so that the files can be used to demonstrate the data reading process.
 
@@ -38,6 +38,6 @@ For raster data we downloaded data from the excellent [WorldPop population estim
 
 For the country boundary data (africountries) we&#39;ve made a start towards supporting other languages by adding country names in French (see below), Portuguese, Afrikaans and Swahili. We are thinking of ways to improve language support in our materials more generally.
 
-![African countrynames on map]({{ site.baseurl }}/assets/img/posts_20201127_1.png)
+![African countrynames on map]({{ site.baseurl }}/assets/img/posts_20201127_2.png)
 
 If you have any suggestions for how we could improve the [afrilearndata package](https://github.com/afrimapr/afrilearndata), do [get in touch](https://afrimapr.github.io/afrimapr.website/get-involved/).
