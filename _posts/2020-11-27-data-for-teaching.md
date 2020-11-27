@@ -26,7 +26,7 @@ Sources are indicated in the package documentation and [reproducible code](https
 
 Here are 4 of the data layers displayed together using the package [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html). The code to create this plot is given in the [afrilearndata readme](https://github.com/afrimapr/afrilearndata/blob/master/README.md).
 
-![visualisation of afrilearndata on map]({{ site.baseurl }}/assets/img/posts_20201127-1.png)
+![visualisation of afrilearndata on map]({{ site.baseurl }}/assets/img/posts_20201127_1.png)
 
 We took inspiration from the [spData](https://github.com/Nowosad/spData) package. As well as having the data as R objects that can be used straightaway, we also store them as a range of geographic data file types (e.g. .shp, .gpkg, .kml, .tiff) so that the files can be used to demonstrate the data reading process.
 
