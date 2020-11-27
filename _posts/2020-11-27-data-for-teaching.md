@@ -15,12 +15,12 @@ These example datasets are deliberately rather small so that they are easy for l
 
 The package currently contains these objects :
 
-1. africountries polygons, country boundaries
-2. africontinent polygons, continent outline
-3. afrihighway lines, trans african highway network
-4. africapitals points, capital cities
-5. afripop2020 raster, population density 2020 aggregated to 20km ([WorldPop](https://www.worldpop.org/))
-6. afripop2000 raster, as above for year 2000
+1. **africountries**: polygons, country boundaries
+2. **africontinent**: polygons, continent outline
+3. **afrihighway**: lines, trans african highway network
+4. **africapitals**: points, capital cities
+5. **afripop2020**: raster, population density 2020 aggregated to 20km ([WorldPop](https://www.worldpop.org/))
+6. **afripop2000**: raster, as above for year 2000
 
 Sources are indicated in the package documentation and [reproducible code](https://github.com/afrimapr/afrilearndata/blob/master/data-raw/afrilearndata-data-creation.R) to create the data from public sources is included as a part of the package.
 
@@ -36,8 +36,8 @@ There are-trade offs in the amount of data to include that we continue to consid
 
 For raster data we downloaded data from the excellent [WorldPop population estimates for the globe](https://www.worldpop.org/methods/populations). Worldpop 1km resolution data (the lowest resolution they provide) cut to Africa gives ~ 8000 \* 8000 cells, that takes up a fair amount of space, a while to download and time to process. Aggregating the data to 20km cells reduces this to ~ 400 \* 400 cells, much more manageable but still showing interesting patterns. We considered using an even lower resolution but this had the unfortunate side effect that the highest population density cell on the continent (near Lagos) ended up in the sea. Potential problems with aggregation are an issue but again we don&#39;t want to minimise potential confusion for new users.
 
-For the country boundary data (africountries) we&#39;ve made a start towards supporting other languages by adding country names in French (see below), Portuguese, Afrikaans and Swahili_._ We are thinking of ways to improve language support in our materials more generally.
+For the country boundary data (africountries) we&#39;ve made a start towards supporting other languages by adding country names in French (see below), Portuguese, Afrikaans and Swahili. We are thinking of ways to improve language support in our materials more generally.
 
 ![African countrynames on map]({{ site.baseurl }}/assets/img/posts_20201127_1.png)
 
-If you have any suggestions for how we could improve the afrilearndata package, do [get in touch](https://afrimapr.github.io/afrimapr.website/get-involved/).
+If you have any suggestions for how we could improve the [afrilearndata package](https://github.com/afrimapr/afrilearndata), do [get in touch](https://afrimapr.github.io/afrimapr.website/get-involved/).
