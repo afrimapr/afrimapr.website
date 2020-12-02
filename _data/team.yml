@@ -39,11 +39,11 @@
   orcid: 0000-0001-6429-5977
   
 - name: Dr Paula Moraga
-  role: Department of Mathematical Sciences, University of Bath, UK
+  role: Department of Statistics, King Abdullah University of Science and Technology (KAUST)
   image: assets/img/community_paula_moraga.jpg
   description: >
     Paula’s research focuses on the development of innovative statistical methods and open-source software for geospatial data analysis and health surveillance, and has directly informed strategic policy in reducing disease burden in several countries
-  email: pm865@bath.ac.uk
+  email: paula.moraga@kaust.edu.sa
   github: Paula-Moraga
   orcid: 0000-0001-5266-0201
   twitter: Paula_Moraga_
@@ -58,4 +58,12 @@
   orcid: 0000-0001-5679-6536
   twitter: robinlovelace
 
-
+- name: Martyna Bogacz
+  role: Institute for Transport, University of Natural Resources and Life Sciences, Vienna
+  image: assets/img/community_martyna_bogacz.png
+  description: >
+    Martyna’s research focuses on the use of novel data sources and data science to explore human decision-making process in transport context.
+  email: martyna.bogacz@boku.ac.at
+  github: 
+  orcid: 0000-0001-8927-3387
+  twitter: martyna_boo

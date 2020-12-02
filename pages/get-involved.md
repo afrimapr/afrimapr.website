@@ -12,7 +12,7 @@ The _afrimapr_ project is as much about growing a community as it is about devel
 
 ### What are we looking for?
 
-The project is brand new (it only kicked off in January 2020). We are working on a number of issues for which we received funding from the Wellcome Open Research fund. We believe you, as the community, may have many more ideas and needs than what is currently being addressed in the project and encourage you to let us know.
+The project is new - it only kicked off in January 2020. We are working on a number of issues for which we received funding from the Wellcome Open Research fund. We believe you, as the community, may have many more ideas and needs than what is currently being addressed in the project and encourage you to let us know.
 
 Ideally, we are looking for feedback on, and help with, the packages that are [under development](code) as our development team and volunteer community is currently very small. However, we’d love to hear your ideas for additional functionality that may be useful in your work. We are constantly looking for ways to make the project more sustainable by bringing more funders and collaborators on board and may be able to start work on novel features as well.
 
