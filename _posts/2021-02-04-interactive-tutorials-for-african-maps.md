@@ -1,5 +1,5 @@
 ---
-posttitle: New Interactive tutorials on making data driven maps in R using African data : afrilearnr 
+posttitle: New Interactive tutorials on making data driven maps in R using African data - afrilearnr 
 categories: [data, africa, package]
 background: assets/img/blog/posts_20210204.png
 author: [Laurie Baker, Andy South]
@@ -18,14 +18,12 @@ So far we have 3 tutorials in progress. The links below will take you to demo ve
 Introducing spatial data types in R, the packages sf, tmap and raster, with data from afrilearndata.
 
 ![Tutorial: Introducing spatial data types in R]({{ site.baseurl }}/assets/img/blog/posts_20210204_1.png)
-
  
 2. [afrilearnr-crash-course](https://andysouth.shinyapps.io/afrilearnr-crash-course/)
 
 A gallery of example plots using tmap, ggplot2 & mapview that you can modify yourself, little explanation.
 
 ![A gallery of example plots using tmap, ggplot2 & mapview]({{ site.baseurl }}/assets/img/blog/posts_20210204_2.png)
-
 
 3. [joining spreadsheet data to a map](https://andysouth.shinyapps.io/join-admin/)
 
