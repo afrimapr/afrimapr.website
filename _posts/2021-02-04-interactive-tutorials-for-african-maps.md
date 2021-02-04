@@ -35,3 +35,11 @@ So far we have 3 tutorials in progress. The links below will take you to demo ve
 
 
 We welcome feedback, we are discussing how best to structure our learning resources to support needs from different communities. What do you think? Do you need easier or harder techniques ? Do you prefer resources with more or less explanation ? What would you like us to cover next?
+
+
+##### Meet the authors
+
+- [Laurie Baker](https://afrimapr.github.io/afrimapr.website/team/#Dr+Laurie+Baker)
+
+- [Andy South](https://afrimapr.github.io/afrimapr.website/team/#Dr+Andy+South)
+
