@@ -1,7 +1,7 @@
 ---
 posttitle: Merging Open Health Facility Data Sets - Part 1
 categories: [health facilities, facility master list, africa]
-background: assets/img/posts_20200416.png
+background: assets/img/blog/posts_20200416.png
 author: [Anelda van der Walt, Andy South]
 ---
 
@@ -77,11 +77,11 @@ Suffice to say that the process is not trivial and is in fact tremendously error
 
 Below you can see how vastly the datasets differ in terms of the number of facilities that are included.
 
-![Number of health facilities listed in each dataset]({{ site.baseurl }}/assets/img/posts_20200416-1.png)
+![Number of health facilities listed in each dataset]({{ site.baseurl }}/assets/img/blog/posts_20200416-1.png)
 
 The various datasets also differ remarkably in terms of the types of health facilities that are listed.
 
-![The frequency of various types of health facilities listed in each dataset]({{ site.baseurl }}/assets/img/posts_20200416-2.png)
+![The frequency of various types of health facilities listed in each dataset]({{ site.baseurl }}/assets/img/blog/posts_20200416-2.png)
 
 The [full report](https://htmlpreview.github.io/?https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.html) and underlying [R code](https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.Rmd) describe the steps we've taken so far, including:
 

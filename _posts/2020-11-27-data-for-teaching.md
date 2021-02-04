@@ -1,7 +1,7 @@
 ---
 posttitle: A new small R data package to aid learning and teaching spatial techniques in Africa - afrilearndata 
-categories: [data africa package]
-background: assets/img/posts_20201127.png
+categories: [data, africa, package]
+background: assets/img/blog/posts_20201127.png
 author: [Andy South]
 ---
 
@@ -26,7 +26,7 @@ Sources are indicated in the package documentation and [reproducible code](https
 
 Here are 4 of the data layers displayed together using the package [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html). The code to create this plot is given in the [afrilearndata readme](https://github.com/afrimapr/afrilearndata/blob/master/README.md).
 
-![visualisation of afrilearndata on map]({{ site.baseurl }}/assets/img/posts_20201127_1.png)
+![visualisation of afrilearndata on map]({{ site.baseurl }}/assets/img/blog/posts_20201127_1.png)
 
 We took inspiration from the [spData](https://github.com/Nowosad/spData) package. As well as having the data as R objects that can be used straightaway, we also store them as a range of geographic data file types (e.g. .shp, .gpkg, .kml, .tiff) so that the files can be used to demonstrate the data reading process.
 
@@ -38,6 +38,6 @@ For raster data we downloaded data from the excellent [WorldPop population estim
 
 For the country boundary data (africountries) we&#39;ve made a start towards supporting other languages by adding country names in French (see below), Portuguese, Afrikaans and Swahili. We are thinking of ways to improve language support in our materials more generally.
 
-![African countrynames on map]({{ site.baseurl }}/assets/img/posts_20201127_2.png)
+![African countrynames on map]({{ site.baseurl }}/assets/img/blog/posts_20201127_2.png)
 
 If you have any suggestions for how we could improve the [afrilearndata package](https://github.com/afrimapr/afrilearndata), do [get in touch](https://afrimapr.github.io/afrimapr.website/get-involved/).

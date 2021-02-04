@@ -1,7 +1,7 @@
 ---
 posttitle: afrimapr attracts great interest in South Africa
 categories: [conferences, presentations]
-background: /assets/img/posts_20200323.png
+background: /assets/img/blog/posts_20200323.png
 author: [Anelda van der Walt]
 ---
 
