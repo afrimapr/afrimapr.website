@@ -1,7 +1,7 @@
 ---
 posttitle: Administrative boundaries - making other data more operationally useful
 categories: [admin boundaries]
-background: assets/img/posts_20201009.png
+background: assets/img/blog/posts_20201009.png
 author: [Andy South, Anelda van der Walt, Ahmadou Dicko]
 ---
 
@@ -47,7 +47,7 @@ compareadmin("togo", level=2, datasource=c('geoboundaries','gadm'))
 ```
 The [afrimapr boundaries comparison app](https://andysouth.shinyapps.io/afriadmin-compare/) runs the code above, allowing you to select a country and look at boundary differences from the two sources.
 
-![Comparing internal boundaries for Liberia using the afriadmin comparison app]({{ site.baseurl }}/assets/img/posts_20201009_1.png)
+![Comparing internal boundaries for Liberia using the afriadmin comparison app]({{ site.baseurl }}/assets/img/blog/posts_20201009_1.png)
 
 Toggle geoboundaries & gadm layers on/off via the layers icon top-left of the map panel to see better. The last ticked item will be painted on top which allows changing layer and legend order.
 

@@ -1,7 +1,7 @@
 ---
 posttitle: How  an R-map visualization has helped to improve the state of the SA health facilities data in the covid19za repository
 categories: [health facilities, south africa, data visualisation, open data quality]
-background: assets/img/posts_20200825.png
+background: assets/img/blog/posts_20200825.png
 author: [Andy South, Anelda van der Walt, Herklaas Combrink, Nompumelelo Mtsweni, Vukosi Marivate]
 ---
 
@@ -20,12 +20,12 @@ In [the application](https://andysouth.shinyapps.io/hosp-viewer-SA-v02) users ca
 - a bar plot showing the frequency of different facility types.
 - a table displaying the raw data.
 
-![Map showing all hospitals in the dataset]({{ site.baseurl }}/assets/img/posts_20200825_1.png)
+![Map showing all hospitals in the dataset]({{ site.baseurl }}/assets/img/blog/posts_20200825_1.png)
 
 
 Among the anomalies identified when visualizing the data, there was an inconsistency in the number of spaces in facility type names and duplications  related to hospitals classified into two different facility types. The latter was detected simply by spotting that one location symbol was a different colour to the rest due to an overlap of two points at the same location. These anomalies could be corrected and the results tested straightaway by re-loading the application.
 
-![Map showing all hospitals in the dataset]({{ site.baseurl }}/assets/img/posts_20200825_2.png)
+![Map showing all hospitals in the dataset]({{ site.baseurl }}/assets/img/blog/posts_20200825_2.png)
 
 
 From the perspective of DSFSI the quality of the open data have been improved, and there is an application that allows further updates to be viewed. There appear to be still considerable gaps in the data that are available publicly, and this is probably the greatest constraint on developing useful tools. From the perspective of afrimapr this is a small example showing how R code components can be put together to develop local solutions. We look forward to developing more.

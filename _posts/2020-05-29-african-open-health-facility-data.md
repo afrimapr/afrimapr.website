@@ -1,7 +1,7 @@
 ---
 posttitle: Exploring open African health facility data
 categories: [health facilities, facility master list, africa]
-background: assets/img/posts_20200529.jpg
+background: assets/img/blog/posts_20200529.jpg
 author: [Anelda van der Walt, Andy South]
 ---
 
@@ -41,7 +41,7 @@ The selected datasets were compared by evaluating the number of facilities and a
 
 Below we compare the number of facilities from each master facility list to the number of facilities that are available from two open continent-wide health facility registries. The continental datasets are [healthsites.io](https://healthsites.io/) and a resource developed by the [KEMRI-Wellcome Trust Research Programme](https://pubmed.ncbi.nlm.nih.gov/31346183/) now hosted by the World Health Organisation (WHO).
 
-![Number of facilities per dataset]({{ site.baseurl }}/assets/img/posts_20200529_2.png)
+![Number of facilities per dataset]({{ site.baseurl }}/assets/img/blog/posts_20200529_2.png)
 
 ### Facility types
 

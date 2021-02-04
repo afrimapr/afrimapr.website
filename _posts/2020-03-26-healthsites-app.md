@@ -1,7 +1,7 @@
 ---
 posttitle: Open health facility location data for Africa to support COVID-19 efforts
 categories: [health facilities, africa, covid-19, coronavirus]
-background: assets/img/posts_20200326-b.png 
+background: assets/img/blog/posts_20200326-b.png 
 author: [Andy South, Anelda van der Walt]
 ---
 
@@ -32,21 +32,21 @@ Last week we created an R package [afrihealthsites](https://github.com/afrimapr/
 
 This is the first effort we are aware of to compare these two, potentially complementary, datasets. Using the viewer we can see e.g. for Angola that there appear to be many more sites from the WHO-KEMRI data (shown by the smaller blue-purple circles) than healthsites.io (shown by the larger yellow-green circles).
 
-![]({{ site.baseurl }}/assets/img/posts_20200326_1.png)
+![]({{ site.baseurl }}/assets/img/blog/posts_20200326_1.png)
 
 In contrast, zooming in on the capital, Luanda, in the north-east shows more records from healthsites.io. 
 
-![]({{ site.baseurl }}/assets/img/posts_20200326_2.png)
+![]({{ site.baseurl }}/assets/img/blog/posts_20200326_2.png)
 
 These differences may partly reflect the different categories of health facilities. In healthsites.io, sites across all countries are categorised as hospital, clinic, doctors, pharmacy and dentist (you can filter which ones you want to display using the tick boxes on the left). In the WHO-KEMRI data, categories are kept from national source data so there are different categories for each country (giving 172 categories across the whole continent). Also the WHO-KEMRI data are restricted to public facilities where healthsites.io can include private.   
 
 For Burundi the situation seems to be different, there is much greater overlap between the two datasets.
 
-![]({{ site.baseurl }}/assets/img/posts_20200326_3.png)
+![]({{ site.baseurl }}/assets/img/blog/posts_20200326_3.png)
 
 This can be confirmed by turning off the healthsites layer :
 
-![]({{ site.baseurl }}/assets/img/posts_20200326_4.png)
+![]({{ site.baseurl }}/assets/img/blog/posts_20200326_4.png)
 
 ## Where are we headed
 

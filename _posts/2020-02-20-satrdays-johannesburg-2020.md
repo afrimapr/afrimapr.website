@@ -1,7 +1,7 @@
 ---
 posttitle: afrimapr @ SatRdays Johannesburg
 categories: [conferences, presentations]
-background: /assets/img/posts_20200220.png
+background: /assets/img/blog/posts_20200220.png
 author: [Anelda van der Walt]
 ---
 
