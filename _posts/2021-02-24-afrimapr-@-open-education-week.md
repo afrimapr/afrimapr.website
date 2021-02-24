@@ -5,9 +5,11 @@ background: assets/img/blog/posts_20210224.jpg
 author: [Andy South, Anelda van der Walt, Laurie Baker]
 ---
 
-![afrimapr presentation during OEW2021]({{ site.baseurl }}/assets/img/blog/posts_20210224_1.jpg)
+
  
 Next week afrimapr will run a 45 min introduction and Q&A session, showcasing our materials and inviting input. 
+
+![afrimapr presentation during OEW2021]({{ site.baseurl }}/assets/img/blog/posts_20210224_1.jpg)
 
 **Registration: [https://forms.gle/PxfdRNtCeut9Tdro7](https://forms.gle/PxfdRNtCeut9Tdro7)**
 
