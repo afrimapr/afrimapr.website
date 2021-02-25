@@ -21,6 +21,8 @@ The presentation will specifically be of interest to data analysts, researchers,
 
 As a part of the presentation we will outline, and invite applications, for a 3-session hands-on training series planned for next month. The training series will be open to a small group of R users. Initially we will guide participants through foundational mapping exercises using our tutorials. Subsequently they will be supported to move forward using their own data to replicate some of the mapping activities demonstrated during the tutorials. We will run 3 sessions of 90 mins each in consecutive weeks starting at the end of March.
 
+For any questions about the session, please get in touch via Twitter [@afrimapr](https://twitter.com/afrimapr) or email Andy.South@lstmed.ac.uk.
+
 ##### Meet the presenters
 
 - [Andy South](https://afrimapr.github.io/afrimapr.website/team/#Dr+Andy+South)
