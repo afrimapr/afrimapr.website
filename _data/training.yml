@@ -1,4 +1,37 @@
 # Project team members listed below will appear on the /team page
+- title: Tutorial - Intro to spatial R
+  authors: 
+    - Andy South
+    - Laurie Baker
+  image: /assets/img/training_intro-spatial-r.png
+  description: > # Can be Markdown
+    Introducing spatial data types in R, the packages sf, tmap and raster, with data from afrilearndata.
+  link: https://andysouth.shinyapps.io/intro-to-spatial-r/
+  license: 
+  license_link: 
+
+- title: Tutorial - afrilearnr - a crash course 
+  authors: 
+    - Andy South
+    - Laurie Baker
+  image: /assets/img/training_crash-course.png
+  description: > # Can be Markdown
+    A gallery of example plots using tmap, ggplot2 & mapview that you can modify yourself, little explanation.  
+  link: https://andysouth.shinyapps.io/afrilearnr-crash-course/
+  license: 
+  license_link: 
+
+
+- title: Tutorial - Joining spreadsheet data to a map
+  authors: 
+    - Andy South
+    - Laurie Baker
+  image: /assets/img/training_join-sheets.png
+  description: > # Can be Markdown
+    A step-by-step run through of how to create a map from a spreadsheet of summary data by region. What you need to do, in technical speak, is ‘join’ the spreadsheet data onto some spatial data. The afrijoin tutorial takes you through that process via some key motivating examples, like football mascots!
+  link: https://andysouth.shinyapps.io/join-admin/
+  license: 
+  license_link: 
 
 - title: Geocomputation with R
   authors: 
