@@ -1,5 +1,20 @@
 # Project publications listed below will appear on the /publications page
 
+- title: A reproducible picture of open access health facility data in Africa and R tools to support improvement
+  authors: 
+    - Andy South
+    - Ahmadou Dicko
+    - Mark Herringer
+    - Peter M. Macharia 
+    - Joseph Maina
+    - Emelda A. Okiro
+    - Robert W. Snow
+    - Anelda van der Walt
+  journal: Wellcome Open Res 2021, 5-157 
+  description: > # Can be Markdown
+    Open data on the locations and services provided by health facilities have, in some countries, allowed the development of software tools contributing to COVID-19 response. The UN and WHO encourage countries to make health facility location data open, to encourage use and improvement. We provide a summary of open access health facility location data in Africa using re-useable R code. We aim to support data analysts developing software tools to address COVID-19 response in individual countries. In Africa there are currently three main sources of such open data; 1) direct from national ministries of health, 2) a database for sub-Saharan Africa collated and published by a team from KEMRI-Wellcome Trust Research Programme and now hosted by WHO, and 3) The Global Healthsites Mapping Project in collaboration with OpenStreetMap. 
+  year: 2021 
+  link: https://wellcomeopenresearch.org/articles/5-157/v2
 - title: Malaria Data by District - An open-source web application for increasing access to malaria information
   authors: 
     - Sean Tomlinson
