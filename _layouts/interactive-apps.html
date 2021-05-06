@@ -1,0 +1,35 @@
+---
+layout: default
+description: Template for interactive-apps page
+---
+
+{{ content }}
+
+{% for material in site.data.interactive-apps %}
+    <div class=row>
+        <div class="media-body">
+            <h5 id="{{ material.title | strip | url_encode }}">
+                <a href="{{ material.link }}">{{ material.title }}</a>
+
+            </h5>
+
+            {{ material.description }} 
+            <ul>
+            {% if material.read_link %}
+            <li class="list-inline-item">
+                <a href="{{ material.read_link }}">Read more in our {{ material.read_type }}...</a> 
+            </li>
+            {% endif %}
+            
+            </ul>
+        </div>
+
+
+    </div>
+    <div class="row">
+        <a href="{{ material.link }}"><img class="mr-3" src="{{ material.image | relative_url }}" height="400" width="800"></a>
+    </div>
+    <br>
+    <br>
+{% endfor %}
+
