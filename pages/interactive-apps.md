@@ -8,9 +8,9 @@ permalink: /interactive-apps/
 
 # _afrimapr_ interactive apps 
 
-We develop interactive apps to facilitate data visualisation using the R package, [Shiny](https://www.shinyapps.io/).
+We develop interactive apps to facilitate data visualisation using the R package, [Shiny](https://www.shinyapps.io/). All applications are open-source and have links to their respective source code.
 
-Below you can find some demo interactive apps that we have developed for various projects.
+Below you can find some demo interactive apps that we have developed for various projects. 
 
 
 

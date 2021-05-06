@@ -4,7 +4,7 @@
   image: /assets/img/apps-healthsites.png
   read_title: A reproducible picture of open access health facility data in Africa and R tools to support improvement
   read_link: https://wellcomeopenresearch.org/articles/5-157/v2
-  read_type: Article 
+  read_type: article 
   description: The afrihealthsites viewer makes it easier to access and compare open health facility data for Africa from WHO-KWTRP and healthsites.io (and potentially others in future). This currently contains around 96k locations from the WHO-KEMRI dataset and 57k locations from healthsites.io. 
   link: https://andysouth.shinyapps.io/healthsites_viewer/
 
@@ -13,15 +13,15 @@
   image: /assets/img/apps-afriadmin.png
   read_title: Administrative boundaries - making other data more operationally useful
   read_link: http://afrimapr.org/blog/2020/admin-boundaries/
-  read_type: Blog post
+  read_type: blog post
   description: The motivation for the afriadmin package (in early development) is to ease access to different data sources for users and help them choose which is the best for their needs. 
   link: https://andysouth.shinyapps.io/afriadmin-compare/
 
 - title: Subnational COVID-19 data
   image: /assets/img/apps-covid.png
-  read_title: Administrative boundaries - making other data more operationally useful
-  read_link: http://afrimapr.org/blog/2020/admin-boundaries/
-  read_type: Blog post
+  read_title: 
+  read_link: 
+  read_type: blog post
   description: This prototype provides access to, and visualisation of, COVID-19 data collated by Humanitarian Emergency Response Africa (HERA) and provided on the Humanitarian Data Exchange (HDX).
   link: https://andysouth.shinyapps.io/africovidviewer/
 
@@ -29,7 +29,7 @@
   image: /assets/img/apps-senegal.png
   read_title: Mapping emergency health services in Senegal
   read_link: https://healthsites.github.io/senegal-emergency-health-data/
-  read_type: Website
+  read_type: website
   description: The afrihealthsites app was used to visualise the change in data during a data collection effort around emergency health services available at hospitals in Senegal in 2020.
   link: https://andysouth.shinyapps.io/senegal_healthsites_collection
 
