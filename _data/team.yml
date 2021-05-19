@@ -21,42 +21,16 @@
   github: anelda
   twitter: aneldavdw
 
-- name: Dr Julie-Anne Tangena
-  role: Liverpool School of Tropical Medicine, UK
-  image: assets/img/community_julie-anne_tangena.jpg
-  description: >
-    Julie-Anne Tangena is a public health entomologist. She was awarded an MRC Skills Development Fellowship to improve mosquito surveillance activities of vector control programs and divides her time between LSTM, Lancaster University, and Malawi.
-  email: Julie-Anne.Tangena@lstmed.ac.uk
-  orcid: 0000-0002-8188-4498
-  twitter: JTangena
-
-- name: Dr Margareth Gfrerer
-  role: Education Strategy Centre, Ethiopia
-  image: assets/img/community_margareth_gfrerer.jpg
-  description: >
-    Margareth holds a PhD in Economics, a MA in Economics Education and a MA in International Commerce. She has been involved in numerous international projects in the field of infrastructure management prior her current assignment in Ethiopia, where her focus is on Open Science and its impacts.
-  email: margareth.gfrerer@gmx.net  
-  orcid: 0000-0001-6429-5977
-  
-- name: Dr Paula Moraga
-  role: Department of Statistics, King Abdullah University of Science and Technology (KAUST)
-  image: assets/img/community_paula_moraga.jpg
-  description: >
-    Paula’s research focuses on the development of innovative statistical methods and open-source software for geospatial data analysis and health surveillance, and has directly informed strategic policy in reducing disease burden in several countries
-  email: paula.moraga@kaust.edu.sa
-  github: Paula-Moraga
-  orcid: 0000-0001-5266-0201
-  twitter: Paula_Moraga_
-
-- name: Dr Robin Lovelace
-  role: Leeds Institute for Transport Studies, UK
-  image: assets/img/community_robin_lovelace.png
-  description: >
-    Robin is a geographer and environmental scientist specialising in spatial data analysis and computing, especially R programming. Robin has a strong interest in transport modelling.
-  email: r.lovelace@leeds.ac.uk
-  github: Robinlovelace
-  orcid: 0000-0001-5679-6536
-  twitter: robinlovelace
+- name: Dr Laurie Baker
+  role: Data Science Campus, Office for National Statistics, UK
+  image: assets/img/community_laurie_baker.jpg # Can be external link
+  description: > # Can be Markdown
+    Laurie is a data science lecturer at the Office for National Statistics. Laurie is interested in spatial modelling, data visualisation, image processing and text analysis.
+  orcid: 
+  email: l-baker@dfid.gov.uk
+  github: LaurieLBaker
+  twitter: llbaker1707
+  profile: https://datasciencecampus.ons.gov.uk/author/laurie-baker/
 
 - name: Martyna Bogacz
   role: Institute for Transport, University of Natural Resources and Life Sciences, Vienna
@@ -67,3 +41,87 @@
   github: 
   orcid: 0000-0001-8927-3387
   twitter: martyna_boo
+
+- name: Mark Herringer
+  role: healthsites.io, Netherlands
+  image: assets/img/community_mark_herringer.jpg # Can be external link
+  description: > # Can be Markdown
+    Mark is the director of healthsites.io. He is interested in open data and how health care location mapping and citizen participation can support humanitarian business models.
+  orcid: 
+  email: 
+  github: healthsites/healthsites
+  twitter: markherringer
+  profile: https://www.researchgate.net/profile/Mark_Herringer3
+
+- name: Anne Treasure
+  role: Talarify, South Africa
+  image: assets/img/community_anne_treasure.jpg
+  description: >
+    Anne is a research analyst and trainer with a background in life sciences research and a strong interest in open science, open data and reproducible research.
+  email: anne@talarify.co.za
+  github: AnneMTreasure
+  orcid: 0000-0002-8345-4811
+  twitter: annemtreasure
+  profile: https://www.researchgate.net/profile/Anne-Treasure
+
+- name: Dr Paula Moraga
+  role: Department of Statistics, King Abdullah University of Science and Technology (KAUST)
+  image: assets/img/community_paula_moraga.jpg
+  description: >
+    Paula’s research focuses on the development of innovative statistical methods and open-source software for geospatial data analysis and health surveillance, and has directly informed strategic policy in reducing disease burden in several countries
+  email: paula.moraga@kaust.edu.sa
+  github: Paula-Moraga
+  orcid: 0000-0001-5266-0201
+  twitter: Paula_Moraga_
+
+- name: Dr Julie-Anne Tangena
+  role: Liverpool School of Tropical Medicine, UK
+  image: assets/img/community_julie-anne_tangena.jpg
+  description: >
+    Julie-Anne Tangena is a public health entomologist. She was awarded an MRC Skills Development Fellowship to improve mosquito surveillance activities of vector control programs and divides her time between LSTM, Lancaster University, and Malawi.
+  email: Julie-Anne.Tangena@lstmed.ac.uk
+  orcid: 0000-0002-8188-4498
+  twitter: JTangena
+
+- name: Dr Thomas Mboa
+  role: Mboalab, Cameroon
+  image: assets/img/community_thomas_mboa.jpg
+  description: >
+    Thomas is the founder of the Mboalab, a community biology lab in Cameroon. Thomas is interested in Open science and co-leading the AfricaOSH. As a researcher, Thomas is interested in Open innovation and is part of the Open AIR. As lecturer, Thomas teaches Digital Humanities with a focus on Data sciences (Python and R) at the Advanced School of Mass communication in Cameroon.  
+  email: thomasmboa@gmail.com
+  orcid: 0000-0001-9678-7765
+  github: Mboalab
+  twitter: Mboathomas 
+
+- name: Dr Margareth Gfrerer
+  role: Education Strategy Centre, Ethiopia
+  image: assets/img/community_margareth_gfrerer.jpg
+  description: >
+    Margareth holds a PhD in Economics, a MA in Economics Education and a MA in International Commerce. She has been involved in numerous international projects in the field of infrastructure management prior her current assignment in Ethiopia, where her focus is on Open Science and its impacts.
+  email: margareth.gfrerer@gmx.net  
+  orcid: 0000-0001-6429-5977
+  
+- name: Dr Robin Lovelace
+  role: Leeds Institute for Transport Studies, UK
+  image: assets/img/community_robin_lovelace.png
+  description: >
+    Robin is a geographer and environmental scientist specialising in spatial data analysis and computing, especially R programming. Robin has a strong interest in transport modelling.
+  email: r.lovelace@leeds.ac.uk
+  github: Robinlovelace
+  orcid: 0000-0001-5679-6536
+  twitter: robinlovelace
+
+- name: Dr Ahmadou Dicko
+  role: FAO, Senegal
+  image: assets/img/community_ahmadou_dicko.jpg # Can be external link
+  description: > # Can be Markdown
+    Ahmadou is a statistical consultant and R enthusiast. He believes in the use of data for social good.
+  orcid: 0000-0002-9654-7582
+  email: mail@ahmadoudicko.com 
+  github: dickoah
+  twitter: dickoah
+
+
+
+
+
