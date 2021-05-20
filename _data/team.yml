@@ -74,6 +74,16 @@
   orcid: 0000-0001-5266-0201
   twitter: Paula_Moraga_
 
+- name: Clinton Nkolokosa
+  role: Malawi Liverpool Wellcome Trust Clinical Research Programme, Malawi
+  image: assets/img/community_clinton_nkolokosa.jpeg
+  description: >
+    Motivated by a desire to apply his geospatial skills in public health, Clinton’s current activities focus on using innovative statistical modelling techniques and geospatial tools within public health, with a focus on vector-borne diseases.
+  email: cnkolokosa@mlw.mw  
+  twitter: clintyMw
+  github: ClintyNkolokosa 
+  profile: https://rpubs.com/Clinty
+
 - name: Dr Julie-Anne Tangena
   role: Liverpool School of Tropical Medicine, UK
   image: assets/img/community_julie-anne_tangena.jpg
