@@ -10,7 +10,6 @@ permalink: /
 #### Read our latest blog post where we describe a <a href="https://afrimapr.github.io/afrimapr.website/blog/2021/africovid-for-subnational-covid-visualisation/">collaboration with HERA to make African subnational COVID-19 data more usable</a>
 
 
-
 _afrimapr_ started in 2020 and is funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/people-and-projects/grants-awarded/afrimapr-facilitating-use-spatial-data-african-public) and [Wellcome Data for Science and Health](https://wellcome.org/what-we-do/our-work/data-science-and-health-trustworthy-data-science). 
 
 _afrimapr_ creates R building blocks and learning resources to make it easier to make data-driven maps in Africa. 
