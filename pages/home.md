@@ -7,7 +7,7 @@ permalink: /
 ---
 
 {: .alert .alert-secondary}
-#### Join us for our very <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ9xU1YIoccBPafiU4_aBA1bpwiO70z7PK9ZZRdDJw213Oca756ZOuf-Jpq3k6NavXP9aVfOnXMfG3s/pub?start=false&loop=false&delayms=3000" target="_blank">first informal community meetup</a> on 26 May 2021! 
+#### Read our latest blog post where we describe a <a href="https://afrimapr.github.io/afrimapr.website/blog/2021/africovid-for-subnational-covid-visualisation/">collaboration with HERA to make African subnational COVID-19 data more usable</a>
 
 
 
