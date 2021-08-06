@@ -7,7 +7,7 @@ permalink: /
 ---
 
 {: .alert .alert-secondary}
-#### Read our latest blog post where we describe a <a href="https://afrimapr.github.io/afrimapr.website/blog/2021/africovid-for-subnational-covid-visualisation/">collaboration with HERA to make African subnational COVID-19 data more usable</a>
+#### Join us on 28 July at 10-11am UTC for the next afrimapr community meetup! Megan Beckett from RLadies Cape Town will share how she used R to map out the accessibility and distribution of Cape Town's clinics with OSRM. <a href="https://groups.google.com/g/afrimapr/">Join the afrimapr Google Group</a> for connection details.
 
 
 _afrimapr_ started in 2020 and is funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/people-and-projects/grants-awarded/afrimapr-facilitating-use-spatial-data-african-public) and [Wellcome Data for Science and Health](https://wellcome.org/what-we-do/our-work/data-science-and-health-trustworthy-data-science). 
