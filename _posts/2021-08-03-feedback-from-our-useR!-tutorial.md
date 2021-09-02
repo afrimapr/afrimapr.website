@@ -5,7 +5,7 @@ background: assets/img/blog/posts_20210803a.jpg
 author: [Anne Treasure]
 ---
 
-On 7 July 2021, we ran a 4 hour tutorial at [useR!2021](https://user2021.r-project.org/) called "Entry level R maps from African data" in both English and French. The aim was to provide an introduction to mapping and spatial data in R using African data. We developed customised content based on the [afrimapr learnr tutorials](https://afrimapr.github.io/afrilearnr/). For more information on our learning materials and teaching strategy, read the blog post ‘[afrimapr tutorial at useR! 2021: Our teaching strategy](https://afrimapr.github.io/afrimapr.website/blog/2021/user-part2/)’.
+On 7 July 2021, we ran a 4 hour tutorial at [useR!2021](https://user2021.r-project.org/) called "Entry level R maps from African data" in both English and French. The aim was to provide an introduction to mapping and spatial data in R using African data. We developed customised content based on the [afrimapr learnr tutorials](https://afrimapr.github.io/afrilearnr/). For more information on our learning materials and teaching strategy, read the blog post ‘[afrimapr tutorial at useR! 2021: Our teaching strategy](https://afrimapr.github.io/afrimapr.website/blog/2021/user-tutorial-teaching-strategy/)’.
 
 We had a great team of instructors and helpers on the day, including: English room instructors: Andy South, Laurie Baker; helpers: Anelda van der Walt, Shelmith Kariuki, Anne Treasure; French room instructor: Ghislain Nono Gueye; helpers: Ahmadou Dicko, Bryan Tegomoh.
 
