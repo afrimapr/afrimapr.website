@@ -1,11 +1,11 @@
 ---
-posttitle:  "afrimapr tutorial at useR!2021: An overview"
+posttitle:  "afrimapr tutorial at useR!2021: Our teaching strategy"
 categories: [useR!2021, teaching]
 background: assets/img/blog/posts_20210803b.jpg
 author: [Anne Treasure]
 ---
 
-On 7 July 2021, we ran a 4 hour tutorial at [useR! 2021](https://user2021.r-project.org/) called "Entry level R maps from African data" in both English and French. For further information on participants and our teaching team, please read ‘[afrimapr tutorial at useR! 2021: An overview](https://afrimapr.github.io/afrimapr.website/blog/2021/user-part1)’.
+On 7 July 2021, we ran a 4 hour tutorial at [useR! 2021](https://user2021.r-project.org/) called "Entry level R maps from African data" in both English and French. For further information on participants and our teaching team, please read ‘[afrimapr tutorial at useR! 2021: An overview](https://afrimapr.github.io/afrimapr.website/blog/2021/feedback-from-our-user-tutorial/)’.
 
 The aim was to provide an introduction to mapping and spatial data in R using African data. We expected that most participants would be quite new to creating maps and R, although our pre-course survey showed that we had a rather diverse audience on the day.
 
