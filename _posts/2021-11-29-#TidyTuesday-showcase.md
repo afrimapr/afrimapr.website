@@ -5,7 +5,7 @@ background: assets/img/blog/posts_20211129.png
 author: [Anelda van der Walt, Andy South]
 ---
 
-The past month showed a flurry of activities around three things dear to our hearts - African data, maps, and R!
+The past month showed a flurry of activities around three things dear to our hearts - African data, maps, and R! See below for images & links to the beautiful maps that people made.
 
 Thanks to the kind people from the R for Data Science Online Learning Community (R4DS), our `{afrilearndata}` package was featured in the [#TidyTuesday challenge]([https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-11-09/readme.md](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-11-09/readme.md)) of 9 November 2021.
 
