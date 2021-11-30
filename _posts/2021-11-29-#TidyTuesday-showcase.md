@@ -43,7 +43,7 @@ Here are links to the maps and code that people shared on twitter. If we’ve mi
 
 ## References
 
-Nischal Shrestha, Titus Barik, and Chris Parnin. 2021. Remote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists. Proc. ACM Hum.-Comput. Interact. 5, CSCW1, Article 52 (April 2021), 31 pages. [https://doi.org/10.1145/3449126](https://doi.org/10.1145/3449126)
+[1] Nischal Shrestha, Titus Barik, and Chris Parnin. 2021. Remote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists. Proc. ACM Hum.-Comput. Interact. 5, CSCW1, Article 52 (April 2021), 31 pages. [https://doi.org/10.1145/3449126](https://doi.org/10.1145/3449126)
 
 
 
