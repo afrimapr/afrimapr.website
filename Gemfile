@@ -10,4 +10,3 @@ group :jekyll_plugins do
   gem "kramdown-parser-gfm"
   gem "github-pages"
 end
-
