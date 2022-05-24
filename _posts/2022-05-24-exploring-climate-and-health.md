@@ -1,7 +1,7 @@
 ---
 posttitle:  "Finding where population health studies have been conducted to inform climate-health research"
 categories: [climate, health]
-background: assets/img/blog/posts_20220524.png
+background: assets/img/blog/posts_20220524.jpg
 author: [Andy South, Anelda van der Walt, Natalia Tejedor Garavito, Tim O'Riordan]
 ---
 
