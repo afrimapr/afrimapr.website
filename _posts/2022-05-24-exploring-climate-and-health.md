@@ -17,13 +17,15 @@ To be able to link these health data with climate, we need to know the geographi
 While longitudinal population studies are undertaken around the world, resource constraints mean that fewer are located in low- and middle-income countries (LMIC). Because health needs and climate vulnerability are likely to be more acute in these countries, the partnership will ensure that LMIC studies are well-represented in this project by engaging with Health and Demographic Surveillance Systems (HDSS) networks. In recent years many LIMCs have adopted an HDSS approach to LPS. This is a form of LPS that is undertaken to assess health outcomes and determinants and adopted in place of national civil registration and vital statistics, which are often incomplete and ineffective. HDSS data have also been used to support research into associations between climate and health. 
  
 The WorldPop team is supporting the prioritization of HDSS datasets that monitor demographic and health characteristics of a population living in specific geographic areas across LMIC, and will be working with data owners to collect and map the geographical extent of the sites, to assess their environmental and socioeconomic representativeness. Headed by Dr Natalia Tejedor Garavito, an expert in collecting, collating, and analysing large datasets, the team will check, clean and update datasets, with the aim of documenting the methods used to produce and harmonise the data.  
+
 The partnership will report on any limitations and data gaps uncovered in the process, and produce specifications for a pilot online interface for capturing LPS geographic data produced by data owners and partnership members. Potential advantages and disadvantages of the different geographic levels will be explored by piloting software tools to query health-relevant data for them. Such software tools will also inform the process of bringing together climate and population health data. 
   
-For further information about the project or to get involved, please contact Dr Andy South at Andy.South@lstmed.ac.uk. 
+For further information about the project or to get involved, please contact Dr Andy South at [Andy.South@lstmed.ac.uk](mailto:Andy.South@lstmed.ac.uk). 
   
 
 ## References
 
-Report: https://cms.wellcome.org/sites/default/files/2022-01/climate-lps-landscaping-report.pdf 
+Report: 
 Combining climate and health data: challenges and opportunities for longitudinal population studies. 
 Hannah Nissan, Peter J Diggle and Claudio Fronterre (2022) 
+[link](https://cms.wellcome.org/sites/default/files/2022-01/climate-lps-landscaping-report.pdf)
