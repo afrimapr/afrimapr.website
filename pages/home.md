@@ -8,9 +8,7 @@ permalink: /
 
 
 {: .alert .alert-secondary}
-#### afrimapr was funded through Wellcome Open Research and Wellcome Data for Science and Health between 2020 - 2021. The project is no longer actively being supported and the website and resources will no longer be updated.
-
-However, we hope that you will find the news, information, and resources useful.
+#### afrimapr was funded through Wellcome Open Research and Wellcome Data for Science and Health between 2020 - 2021. The project is no longer actively being supported and the website and resources will no longer be updated. However, we will keep the website up for as long as possible and the GitHub repositories and Youtube channel will stay accessible. We hope you will find the news, information, and resources useful.
 
 
 
