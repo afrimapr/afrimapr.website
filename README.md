@@ -2,7 +2,15 @@
 
 
 
-afrimapr is a one year project running in 2020 funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/schemes/open-research-fund).
+afrimapr was funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/funding/schemes/open-research-fund) and [Wellcome Data for Science and Health](https://wellcome.org/what-we-do/data-science-and-health-trustworthy-data-science) between January 2020 - July 2021.
+
+The project continued to run monthly community meetups with support from [Talarify](https://talarify.co.za), beyond conclusion of the funding cycle.
+
+All activity and development was stopped at the beginning of 2023 but repositories remain openly available,lesson materials are still being used, and we continue to explore ways to support our community through incorporating them into other existing initiatives such as [RSSE Africa](https://rsse.africa) and others.
+
+----
+
+# Original Readme
 
 afrimapr will create R building blocks and learning resources to make it easier to make data-driven maps in Africa.
 
